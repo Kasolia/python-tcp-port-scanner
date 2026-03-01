@@ -72,25 +72,15 @@
 
 # 
 
-# \## Usage
+### Usage
 
-# 
+Run the scanner:
 
-# Run the scanner:
+python port_scanner.py <target> <start_port> <end_port>
 
-# 
+Example:
 
-# python port\_scanner.py <target> <start\_port> <end\_port>
-
-# 
-
-# Example:
-
-# 
-
-# python port\_scanner.py scanme.nmap.org 20 100
-
-# 
+python port_scanner.py scanme.nmap.org 20 100
 
 # ---
 
